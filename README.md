@@ -1,1 +1,1 @@
-# Zomato-Data-analyis-Project
+ created a data analysis project on Zomato's data, following steps of data cleaning, analysis, and visualization. I answered various questions and gained insights to maximize profit. Through this project, I learned about data preprocessing, statistical modeling, and data visualization techniques."
